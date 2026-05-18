@@ -55,3 +55,7 @@ and product trends using Tableau dashboards to generate business insights and im
 - KPI Reporting
 - Customer Segmentation
 - Business Intelligence
+
+## GitHub Tags
+
+tableau marketing-analysis business-intelligence data-visualization
